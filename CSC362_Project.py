@@ -1,9 +1,5 @@
 '''
 Sebastian J Courdy
-CSC 362
-Professor. Ghazaleh
-
-Course Project
 '''
 import numpy as np # Importing numpy
 import pandas as pd # Importing pandas
